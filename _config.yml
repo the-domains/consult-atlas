@@ -1,0 +1,28 @@
+name: Consult Atlas
+favicon: null
+layout_spectrum: 0.6104532685130835
+typography_spectrum: 0.36852719774469733
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.4936612800229341
+  lightness: 0.6531411116011441
+  saturation: 0.19965093699283898
+  rhythmicContrast: 0.79701166623272
+purpose: []
